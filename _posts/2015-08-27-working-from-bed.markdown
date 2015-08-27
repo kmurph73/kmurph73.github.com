@@ -9,7 +9,7 @@ categories: productivity
 
 I've found my mental energy is at its greatest when I'm laying down.  There are quite a few positions I alternate between, and I'm always looking for new ones :)
 
-There are a few tools in my arsenal that I use to help facilitate this.
+Some of the tools in my productivity arsenal that help me facilitate this:
 
 ## Bedrest
 <a style='float:left' target='_blank' href='http://www.amazon.com/Brentwood-Originals-Brushed-Twill-Bedrest/dp/B002S0NJNK/ref=sr_1_2?ie=UTF8&qid=1440707082&sr=8-2'>
