@@ -7,7 +7,7 @@ categories: productivity
 ---
 
 
-I've found the laying position to be best for my mental energy, probably due to better blood flow.  I'm always looking for new positions to work from.
+I've found my mental energy is at its greatest when I'm laying down.  There are quite a few positions I alternate between, and I'm always looking for new ones :)
 
 There are a few tools in my arsenal that I use to help facilitate this.
 
