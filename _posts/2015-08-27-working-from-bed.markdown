@@ -6,7 +6,6 @@ permalink: /worktools
 categories: productivity
 ---
 
-
 I've found my mental energy is at its greatest when I'm laying down.  There are quite a few positions I alternate between, and I'm always looking for new ones :)
 
 Some of the tools in my productivity arsenal that help me facilitate this:
