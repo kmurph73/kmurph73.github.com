@@ -8,7 +8,7 @@ categories: code
 
 <b>Update 2014-08-10:</b> Added US States and Cities.  Not a good time.
 
-<b>Update 2015-08-27:</b> Accidentally overwrote the /yomap url while rebuilding my blog today ... hopefully it's resolved soon.
+<b>Update 2015-08-27:</b> Accidentally overwrote the /yomap url while rebuilding my blog today.  Seems to be a GH caching issue ... hopefully it's resolved soon.
 
 I love to explore Google Maps, and I've always wanted to be able to drag countries around to compare sizes, so I created [http://shmay.github.io/yomap/][1]
 
