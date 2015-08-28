@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Country dragging with GMaps"
-permalink: yolly
+permalink: /yolly
 date:   2014-01-01 10:06:00
 categories: code
 ---
