@@ -3,7 +3,7 @@ title: Kyle's space
 email: kmurph73@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
 twitter_username: kmurph79
 github_username:  shmay
 
