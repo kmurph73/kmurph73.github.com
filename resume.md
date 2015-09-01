@@ -45,6 +45,13 @@ Justin Neel, a freelance client (CE Briefs).
   * Spring 09 - Software Engineering for Embedded and Mobile Systems
   * Spring 09 - Web Application Competition (Django)
 
+* Other
+  * Coursera's [Introduction to Databases][22]
+    * I didn't complete all of the exercises, but watched all of the videos and (I feel) adequately digested the lessons.
+   
+
+[22]: https://www.coursera.org/course/db
+
 ## Programming / Web Work:
 
 * Summer 2015
@@ -64,17 +71,20 @@ Justin Neel, a freelance client (CE Briefs).
       * A Cordova plugin for interacting with the iOS and Android [Venmo](https://venmo.com/) app (I hope to open source this at some point).
       * An invite system for HomeSlice homes (by directing invitees to [http://gethomeslice.com/](http://gethomeslice.com/) with a pin)
 
+
+[40]: http://filler.com
+
 * September 2014: Built a client-tracking app for a local personal trainer, in [Polymer JS][12] and [Firebase][13] for/with Steven Feaster.
 
 * July/August 2014: [Homeslice][11] -- helped convert a Rails/Postgres app to [Firebase][13] and [Polymer JS][12]
 
-* August 2013 - current -- [CE Briefs][10]: continuing education videos app for nurses
+* August 2013 - current -- [CE Briefs][10]: a continuing education (via videos) app for nurses
   * Ongoing freelance gig for a local doctor
   * Built with Rails, Postgres, and [Bootstrap][15], with a smattering of JS (Backbone/jQuery) on top.  
   * Hosted on a [Linode](http://linode.com/) Ubuntu server (using [Phusion Passenger](https://www.phusionpassenger.com/) and [Nginx](https://en.wikipedia.org/wiki/Nginx))
   * As of 8/21/2015, they have gotten multiple hospitals onboard and are on the cusp of launch.
 
-* Jan. 15 - March 4 2014: Front-end (Angular/JS/HTML/CSS) developer at [Trucoin][9]
+* Jan.15 - March 4 2014: Front-end (Angular/JS/HTML/CSS) developer at [Trucoin][9]
 
 * Fall 2010 through early 2013 &#8211; Rails Intern / Contractor for [APhotoFolio][8], working under [Erik Dungan][1] in San Luis Obispo
   * Main Rails/Backbone app I worked on while there:
