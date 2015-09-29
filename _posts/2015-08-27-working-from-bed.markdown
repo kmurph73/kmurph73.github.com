@@ -34,13 +34,3 @@ My aunt gave me a bamboo laptop desk awhile back, and I've used it just about ev
 Keyboard/trackpad can now sit in my lap comfortably.  Opens up a ton of body configurations, though I think to truly unlock its power you'd have to pair it with a nice monitor and monitor arm...
 
 <div style='clear:both'></div>
-
-## Laptop stand
-
-
-<a style='float:left' target='_blank' href='http://www.amazon.com/Rolodex-82410-Laptop-Stand/dp/B000JE7CMG/ref=sr_1_3?ie=UTF8&qid=1440712866&sr=8-3&keywords=laptop+stand'>
-  <img width='300' src='http://ecx.images-amazon.com/images/I/91Hb5MX1rSL._SL1500_.jpg' />
-</a>
-that's the closest thing I could find to what I use ... which is actually a simple adjustable plastic laptop tray that I found in Taiwan.
-
-not suitable for bed, but great for a desk
