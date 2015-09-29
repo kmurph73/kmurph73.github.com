@@ -79,7 +79,7 @@ Justin Neel, a freelance client (CE Briefs).
   * Ongoing freelance gig for a local doctor
   * Built with Rails, Postgres, and [Bootstrap][15], with a smattering of JS (Backbone/jQuery) on top.  
   * Hosted on a [Linode](http://linode.com/) Ubuntu server (using [Phusion Passenger](https://www.phusionpassenger.com/) and [Nginx](https://en.wikipedia.org/wiki/Nginx))
-  * As of 8/21/2015, they have gotten multiple hospitals onboard and are on the cusp of launch.
+  * As of 9/21/2015, they have launched and are onboarding hospitals and nurses.
 
 [40]: http://filler.com
 
@@ -119,7 +119,7 @@ Justin Neel, a freelance client (CE Briefs).
 * Ruby & Rails: 5+ years
   * RSpec & factory_girl unit testing
   * Some integration testing with Capybara
-* Javascript & Coffeescript
+* Front-end Javascript & Coffeescript
   * jQuery
   * Backbone.js and client-side MV\* experience
       * includes integration/unit testing with Jasmine
@@ -133,10 +133,11 @@ Justin Neel, a freelance client (CE Briefs).
 * iOS: 
   * iOS class in 2011[app][6]
   * [Maybe](http://www.textmaybe.com/) (as detailed above)
+  * [Convo Tracker](https://github.com/shmay/convotrackios) Another simple app :).  This time to learn Apple Watch dev.
 * Light experience:
   * Redis (with Resque/Sidekiq)
-  * MongoDB
   * Node.js
+  * MongoDB
   * HTML5 Canvas
   * Python (some Django and app engine)
 
