@@ -48,7 +48,6 @@ Justin Neel, a freelance client (CE Briefs).
 * Other
   * Coursera's [Introduction to Databases][22]
     * I didn't complete all of the exercises, but watched all of the videos and (I feel) adequately digested the lessons.
-   
 
 [22]: https://www.coursera.org/course/db
 
@@ -56,8 +55,7 @@ Justin Neel, a freelance client (CE Briefs).
 
 * Summer 2015
   * Prepared [CE Briefs](http://cebriefs.com/users/sign_in) (below) to handle large (3000+ nurse) hospitals and launch in general
-  * Built [Maybe](http://www.textmaybe.com) - a social Geo-fencing app.
-      * Submitted to the App Store 8/18/2015 - hopefully will be in there in a couple weeks.
+  * Built [Maybe](https://itunes.apple.com/us/app/maybe./id1025357487) - a social Geo-fencing app.
       * Apple Watch version is built - will be in the next submission.
       * Built in Swift, Firebase, and Node.js (all data being sent over SSL).
       * Utilizes Apple's [Region Monitoring][20] APIs for determining a user's relation to various Geo-fences
@@ -70,7 +68,6 @@ Justin Neel, a freelance client (CE Briefs).
   * Some challenging projects I worked on while there:
       * A Cordova plugin for interacting with the iOS and Android [Venmo](https://venmo.com/) app (I hope to open source this at some point).
       * An invite system for HomeSlice homes (by directing invitees to [http://gethomeslice.com/](http://gethomeslice.com/) with a pin)
-
 
 [40]: http://filler.com
 
