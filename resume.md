@@ -59,7 +59,6 @@ Justin Neel, a freelance client (CE Briefs).
       * Apple Watch version is built - will be in the next submission.
       * Built in Swift, Firebase, and Node.js (all data being sent over SSL).
       * Utilizes Apple's [Region Monitoring][20] APIs for determining a user's relation to various Geo-fences
-      * Android version coming soon(ish).
 
 [20]: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/RegionMonitoring/RegionMonitoring.html
 
