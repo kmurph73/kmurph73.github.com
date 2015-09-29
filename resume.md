@@ -65,7 +65,7 @@ Justin Neel, a freelance client (CE Briefs).
 * Febuary 12 - May 15th 2015: [Homeslice][11]
   * [Cordova](https://cordova.apache.org/) / Polymer JS / Firebase / HTML/CSS developer
   * Some challenging projects I worked on while there:
-      * A Cordova plugin for interacting with the iOS and Android [Venmo](https://venmo.com/) app (I hope to open source this at some point).
+      * A [Cordova plugin](https://github.com/shmay/venmo-cordova) for interacting with the iOS and Android [Venmo](https://venmo.com/) app
       * An invite system for HomeSlice homes (by directing invitees to [http://gethomeslice.com/](http://gethomeslice.com/) with a pin)
 
 [40]: http://filler.com
