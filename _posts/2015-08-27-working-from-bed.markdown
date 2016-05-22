@@ -8,7 +8,7 @@ categories: productivity
 
 I've found my mental energy is at its greatest when I'm laying down.  There are quite a few positions I alternate between, and I'm always looking for new ones :)
 
-Some of the tools in my productivity arsenal that help me facilitate this:
+There are two key tools in my arsenal that make this practical:
 
 ## Bedrest
 <a style='float:left' target='_blank' href='http://www.amazon.com/Brentwood-Originals-Brushed-Twill-Bedrest/dp/B002S0NJNK/ref=sr_1_2?ie=UTF8&qid=1440707082&sr=8-2'>
@@ -25,3 +25,8 @@ Self-explanatory
 My aunt gave me a bamboo laptop desk awhile back, and I've used it just about everyday since.  I couldn't find the desk I have online, but this is kinda close.  Good used in bed, on the couch, or in a reclining chair.  Next time I travel, I'll probably bring something like [this](https://www.kickstarter.com/projects/1689432703/lapdeck-the-10-recyclable-laptop-desk) along.
 
 <div style='clear:both'></div>
+
+When not using the laptop desk, I'll alternate between laying on my left and right side, my laptop resting on a pillow.
+
+Another nice position is laying on your belly, pillow tucked under your chin, and laptop in front of you.  Unfortunately this seems to encourage forehead wrinkles,
+and it becomes uncomfortable more quickly than the other positions, so I use it sparingly, but it's a nice counter to the hunched over style of the other positions.
