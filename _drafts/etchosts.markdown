@@ -2,7 +2,7 @@
 layout: post
 title:  "Blocking Sites"
 permalink: /etchosts
-date:   2015-10-24 10:06:00
+date:   2016-06-05 10:00:00
 categories: productivity
 ---
 
