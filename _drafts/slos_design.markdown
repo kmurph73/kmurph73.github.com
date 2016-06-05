@@ -43,13 +43,9 @@ Observe all the banks in downtown San Luis Obispo, my home town:
 This is downtown, where people are supposed to go to enjoy themselves and socialize, and yet it's plastered with banks, which often consume a surprisingly large amount 
 of land thanks to their oversized parking lots and buildings.
 
-Pan out and see even more across the city:
+Even worse than banks is the complete domination of cars.  Two of SLO's busiest streets run right through downtown.  Further, every street is bounded by parked cars.
 
-<img class='bank' src='/images/slobanks.png' />
+Awhile back, the city of SLO blocked off Monterey St, right in front of our mission.  The resulting space has been a huge boon to the city, and is one of the few places downtown where you can escape from cars.
 
-Matt Taibbi's description of Goldman Sachs as a vampire squid sucking the world's wealth can seemingly be readily applied to banks in general.  They have their fucking 
-tentacles everywhere!
-
-Yet they have enormous power and money, thanks in large part to being the receptacle of The Federal Reserve's money hose.  I do realize that a large
-part of their function is money lending, but surely something would sprout up in their place were banks to magically vanish from the Earth.
+<img class='bank' src='/images/mission.png' />
 

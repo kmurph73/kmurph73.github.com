@@ -12,8 +12,8 @@ My go-to DB is Postgres, but I also love Firebase, and think the two can actuall
 
 I'm very thankful for all of the awesome, open-source, free tools that others have built, and try to contribute back to OS where I can.
 
-Outside of programming, I'm a bit of an information junky, and constantly consuming various web articles/forums, podcasts, and books.  Lately I've gotten back into fiction, and
-have been on a bit of a [Murakami][2] tear.
+Outside of programming, I can be a bit of an information junky, constantly consuming various web articles/forums, podcasts, and books.  I'm working on toning that down, though.
+Lately I've gotten back into fiction, and have been on a bit of a [Murakami][2] tear.
 
 [1]: https://itunes.apple.com/us/developer/kyle-murphy/id1025357486
 [2]: https://en.wikipedia.org/wiki/Haruki_Murakami
