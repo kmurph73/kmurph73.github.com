@@ -2,7 +2,7 @@
 layout: post
 title:  "US City Design"
 permalink: /uscities
-date:   2015-10-24 10:06:00
+date:   2016-02-03 10:06:00
 categories: rant
 ---
 
@@ -38,14 +38,17 @@ purpose, storing physical forms of money, has become obviated thanks to technolo
 
 Observe all the banks in downtown San Luis Obispo, my home town:
 
-<img class='bank' src='/images/slodtbanks.png' />
+<img class='bank' src='/images/slobanks2.png' />
 
 This is downtown, where people are supposed to go to enjoy themselves and socialize, and yet it's plastered with banks, which often consume a surprisingly large amount 
 of land thanks to their oversized parking lots and buildings.
 
-Even worse than banks is the complete domination of cars.  Two of SLO's busiest streets run right through downtown.  Further, every street is bounded by parked cars.
+Even worse than banks is the complete domination of cars.  Two of SLO's busiest streets run through the middle of downtown, and every street is lined with parked cars.
+
+<img class='bank' src='/images/dtcars.JPG' />
 
 Awhile back, the city of SLO blocked off Monterey St, right in front of our mission.  The resulting space has been a huge boon to the city, and is one of the few places downtown where you can escape from cars.
 
-<img class='bank' src='/images/mission.png' />
+<img class='bank' src='/images/nostreet.JPG' />
 
+Much better than a street, no?
