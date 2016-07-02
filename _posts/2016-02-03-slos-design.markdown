@@ -17,7 +17,7 @@ categories: rant
   }
 </style>
 
-American post WW2 architecture and city design has little to compliment.  Perhaps the only thing you can is the gridded design.  For example, compare Dublin, Ireland's and
+American post WW2 architecture and city design has little to compliment.  One of the few things you can is the gridded design.  For example, compare Dublin, Ireland's and
 Austin, Texas's street layout:
 
 <img class='city' src='/images/dublin.png' />
