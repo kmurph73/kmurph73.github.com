@@ -17,8 +17,8 @@ categories: rant
   }
 </style>
 
-American post WW2 architecture and city design has little to compliment.  One of the few things you can is the gridded design.  For example, compare Dublin, Ireland's and
-Austin, Texas's street layout:
+American post-WW2 architecture and city design has little to compliment.  One of the few things you can is the gridded design.  For example, compare Dublin, Ireland's and
+Austin, Texas' street layout:
 
 <img class='city' src='/images/dublin.png' />
 <img class='city' src='/images/austin.png' />
@@ -47,8 +47,22 @@ Even worse than banks is the complete domination of cars.  Two of SLO's busiest 
 
 <img class='bank' src='/images/dtcars.JPG' />
 
-Awhile back, the city of SLO blocked off Monterey St, right in front of our mission.  The resulting space has been a huge boon to the city, and is one of the few places downtown where you can escape from cars.
+Awhile back, the city of SLO blocked off Monterey St, right in front of [our mission][1].  The resulting space has been a huge boon to the city, and is one of the few places downtown where you can escape from cars.
+
+Observe:
 
 <img class='bank' src='/images/nostreet.JPG' />
+<img class='bank' src='/images/mission2.JPG' style='margin-top:10px'/>
 
 Much better than a street, no?
+
+Some things cities could do to improve the situation:
+
+* Continue blocking off streets where practical.  Add public seating, free wifi, and allow some food vendors to set up shop.
+* Ban street parking downtown.
+* Close lanes, expand sidewalks, and/or put in bike dedicated lanes.
+* Put as much parking underground as possible to save above-ground space for more important things.
+* Place higher density housing near downtown to reduce the need for cars.
+* Much more mixed use zoning.
+
+[1]: https://en.wikipedia.org/wiki/Mission_San_Luis_Obispo_de_Tolosa
