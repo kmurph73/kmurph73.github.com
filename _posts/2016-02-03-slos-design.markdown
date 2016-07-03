@@ -52,7 +52,7 @@ Awhile back, the city of SLO blocked off Monterey St, right in front of [our mis
 Observe:
 
 <img class='bank' src='/images/nostreet.JPG' />
-<img class='bank' src='/images/mission2.JPG' style='margin-top:10px'/>
+<img class='bank' src='/images/mission2.jpg' style='margin-top:10px'/>
 
 Much better than a street, no?
 
