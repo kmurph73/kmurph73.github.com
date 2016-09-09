@@ -8,7 +8,6 @@ permalink: /resume/
 
 * [GitHub](http://github.com/shmay)
 * [Stack Overflow](http://stackoverflow.com/users/548170/kmurph79)
-* [Hacker News](https://news.ycombinator.com/user?id=shiny)
 * [Twitter](https://twitter.com/kmurph79)
 
 ## References
@@ -22,36 +21,13 @@ Justin Neel, a freelance client (CE Briefs).
 
 [Steven Feaster](https://www.linkedin.com/in/stevenfeaster), mobile software entrepreneur.
 
-## Formal Education
-* San Luis Obispo High School, class of '05
-* [Cuesta College](http://en.wikipedia.org/wiki/Cuesta_College)
-* University of California at Santa Barbara
-
-## Degrees
-
-* BA Greek and Roman Classics 2011, UCSB
-
-## Relevant CS Courses:
-
-* [Cuesta College:](http://academic.cuesta.edu/rscovil/)
-  * Fall 11 - Mobile Device Programming (iOS)
-  * Spring 11 - Mobile Device Programming (Android)
-  * Spring 08 - Fundamentals of Computer Science III (More Algorithms/Data Structures)
-  * Spring 08 - Fundamentals of Computer Science II (Algorithms/Data Structures)
-  * Spring 07 - Fundamentals of Computer Science I (C, Java, OO)
-  * Spring 07 - C Programming Language
-
-* [UCSB:](http://www.ccs.ucsb.edu/component/option,com_ccs_courses/Itemid,236/quarter,Spring/year,2009/discipline,ComputerScience/)
-  * Spring 09 - Software Engineering for Embedded and Mobile Systems
-  * Spring 09 - Web Application Competition (Django)
-
-* Other
-  * Coursera's [Introduction to Databases][22]
-    * I didn't complete all of the exercises, but watched all of the videos and (I feel) adequately digested the lessons.
-
-[22]: https://www.coursera.org/course/db
-
 ## Programming / Web Work:
+* January 2016 - current
+  * Rails Web Developer for Under 100 (employee)
+
+* Fall 2015
+  * Contracted for Under 100 and CE Briefs
+  * Built [Dr Kodama](https://itunes.apple.com/app/dr.-kodama/id1060934796) in Swift and SpriteKit
 
 * Summer 2015
   * Prepared [CE Briefs](http://cebriefs.com/users/sign_in) (below) to handle large (3000+ nurse) hospitals and launch in general
@@ -139,6 +115,36 @@ Justin Neel, a freelance client (CE Briefs).
   * MongoDB
   * HTML5 Canvas
   * Python (some Django and app engine)
+
+## Formal Education
+* San Luis Obispo High School, class of '05
+* [Cuesta College](http://en.wikipedia.org/wiki/Cuesta_College)
+* University of California at Santa Barbara
+
+## Degrees
+
+* BA Greek and Roman Classics 2011, UCSB
+
+## Relevant CS Courses:
+
+* [Cuesta College:](http://academic.cuesta.edu/rscovil/)
+  * Fall 11 - Mobile Device Programming (iOS)
+  * Spring 11 - Mobile Device Programming (Android)
+  * Spring 08 - Fundamentals of Computer Science III (More Algorithms/Data Structures)
+  * Spring 08 - Fundamentals of Computer Science II (Algorithms/Data Structures)
+  * Spring 07 - Fundamentals of Computer Science I (C, Java, OO)
+  * Spring 07 - C Programming Language
+
+* [UCSB:](http://www.ccs.ucsb.edu/component/option,com_ccs_courses/Itemid,236/quarter,Spring/year,2009/discipline,ComputerScience/)
+  * Spring 09 - Software Engineering for Embedded and Mobile Systems
+  * Spring 09 - Web Application Competition (Django)
+
+* Other
+  * Coursera's [Introduction to Databases][22]
+    * I didn't complete all of the exercises, but watched all of the videos and (I feel) adequately digested the lessons.
+
+[22]: https://www.coursera.org/course/db
+
 
 [16]: https://play.google.com/store/apps/details?id=com.dudebro.kmurph.convoapp
 [1]: http://callmeed.co/

@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Blocking Sites"
+permalink: /etchosts
+date:   2016-06-05 10:00:00
+categories: productivity
+---
+
+Like many, I struggle with digital distractions.  Opening the browser and typing 're'(ddit) is burned into my fingertips.  Before I know it, an hour has passed and I'm feeling horribly guilty.
+
+In the past, I've used the [StayFocusd][1] chrome extension, which, while a massive improvement over nothing, was still too easy to circumvent by switching browsers, going incognito, or switching Chrome users.
+
+Enter the [hosts][2] file, which on Mac OS X & Linux can be found in /etc/hosts.  It allows you to map domains to an ip address, which can be effectively utilized to block distracting sites.
+
+Putting `127.0.0.1 www.reddit.com` in `/etc/hosts` will map Reddit to your local machine's address, i.e. nowhere.
+
+The problem is that it can be a bit of a pain to type `sudo mvim /etc/hosts` then (un)comment out the sites, then save & quit.
+
+I was initially hesitant to write a script to automate this since that would make it as easy to unblock sites as it was to block them ... then 
+I realized the script didn't need to unblock anything!  So I wrote a [simple script][3] that uncomments all of the sites in my /etc/hosts file 
+(thus blocking them) and put it in my [path][5].  If I want to unblock them, I have to manually edit /etc/hosts.  But reblocking them is a simple `sudo block` away.
+
+The final stage in the plan is to create a job that executes that script nightly, so that when I wake up, Reddit, [HN][4] and co. are blocked, hopefully stymying my
+habit of visiting Reddit or HN first thing in the morning.
+
+[1]: https://chrome.google.com/webstore/detail/stayfocusd/laankejkbhbdhmipfmgcngdelahlfoji?hl=en
+[2]: https://en.wikipedia.org/wiki/Hosts_(file)
+[3]: https://gist.github.com/shmay/f09c0ce1c9f36064f7dc12b0b2331c78
+[4]: https://news.ycombinator.com/
+[5]: https://kb.iu.edu/d/acar
