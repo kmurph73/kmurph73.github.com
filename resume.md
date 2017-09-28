@@ -23,7 +23,7 @@ Justin Neel, a freelance client (CE Briefs).
 
 ## Programming / Web Work:
 * January 2016 - current
-  * Rails Web Developer for Under 100 (employee)
+  * Rails Web Developer for [Fame](https://www.fame.co/) (employee)
 
 * Fall 2015
   * Contracted for Under 100 and CE Briefs
