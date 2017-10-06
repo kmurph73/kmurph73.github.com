@@ -22,7 +22,7 @@ Justin Neel, a freelance client (CE Briefs).
 [Steven Feaster](https://www.linkedin.com/in/stevenfeaster), mobile software entrepreneur.
 
 ## Programming / Web Work:
-* January 2016 - current
+* October 2015 - current
   * Rails Web Developer for [Fame](https://www.fame.co/) (employee)
 
 * Fall 2015
