@@ -22,11 +22,11 @@ Justin Neel, a freelance client (CE Briefs).
 [Steven Feaster](https://www.linkedin.com/in/stevenfeaster), mobile software entrepreneur.
 
 ## Programming / Web Work:
-* October 2015 - current
-  * Rails Web Developer for [Fame](https://www.fame.co/) (employee)
+* January 2016 - current
+  * Rails Web Developer for Under100 / [Fame](https://www.fame.co/) (employee)
 
 * Fall 2015
-  * Contracted for Under 100 and CE Briefs
+  * Contracted for Under 100 (now Fame) and CE Briefs
   * Built [Dr Kodama](https://itunes.apple.com/app/dr.-kodama/id1060934796) in Swift and SpriteKit
 
 * Summer 2015
