@@ -23,13 +23,13 @@ Austin, Texas' street layout:
 <img class='city' src='/images/dublin.png' />
 <img class='city' src='/images/austin.png' />
 
-Very geometric and easy to wire up.  But that's where the positive mostly ends.  
+Very geometric and easy to wire up.  But that's where the positive mostly ends.
 
 Suburban sprawl, beige stucco one-story buildings that are fraction of the size of their
-parking lots, streets packed with cars, long rows of ticky tacky mass produced identical houses, lack of a walkable city centre, 
+parking lots, streets packed with cars, long rows of ticky tacky mass produced identical houses, lack of a walkable city centre,
 and a strange proliferation of banks are some of the many drawbacks of American city scape.
 
-An architecture firm was actually paid to design this: 
+An architecture firm was actually paid to design this:
 
 <img src='/images/sougg.png' style='margin-top: -13px; margin-bottom: 30px;'/>
 
@@ -58,6 +58,7 @@ Much better than a street, no?
 
 Some things cities could do to improve the situation:
 
+* Get rid of antiquated height restriction laws.
 * Continue blocking off streets where practical.  Add public seating, free wifi, and allow some food vendors to set up shop.
 * Ban street parking downtown.
 * Close lanes, expand sidewalks, and/or put in bike dedicated lanes.
