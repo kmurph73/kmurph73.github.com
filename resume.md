@@ -22,18 +22,26 @@ Justin Neel, a freelance client (CE Briefs).
 [Steven Feaster](https://www.linkedin.com/in/stevenfeaster), mobile software entrepreneur.
 
 ## Programming / Web Work:
+
+* December 4 2017 - May 25 2018
+  * Rails developer for Indeed Assessments (formerly Interviewed YC company)
+    * Mostly backend, but some frontend as well.
+      * <span style='font-weight:500'>Technologies used</span>: Heroku, Postgres, Sidekiq, Ruby/Rails, RSpec/factory_bot/Capybara, Elasticsearch, New Relic/Scout, Bootstrap 4, Mixpanel/Amplitude, Pry
+    * Learned React on the side, since they made heavy use of it
+
 * January 2016 - current
   * Rails Web Developer for Under100 / [Fame](https://www.fame.co/) (employee)
 
 * Fall 2015
   * Contracted for Under 100 (now Fame) and CE Briefs
   * Built [Dr Kodama](https://itunes.apple.com/app/dr.-kodama/id1060934796) in Swift and SpriteKit
+  * More CE Briefs contract work
 
 * Summer 2015
   * Prepared [CE Briefs](http://cebriefs.com/users/sign_in) (below) to handle large (3000+ nurse) hospitals and launch in general
   * Built [Maybe](https://itunes.apple.com/us/app/maybe./id1025357487) - a social Geo-fencing app.
       * Apple Watch version is built - will be in the next submission.
-      * Built in Swift, Firebase, and Node.js (all data being sent over SSL).
+      * Built in Swift, Firebase, and Node.js
       * Utilizes Apple's [Region Monitoring][20] APIs for determining a user's relation to various Geo-fences
 
 [20]: https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/LocationAwarenessPG/RegionMonitoring/RegionMonitoring.html
@@ -52,7 +60,7 @@ Justin Neel, a freelance client (CE Briefs).
 
 * August 2013 - current -- [CE Briefs][10]: a continuing education (via videos) app for nurses
   * Ongoing freelance gig for a local doctor
-  * Built with Rails, Postgres, and [Bootstrap][15], with a smattering of JS (Backbone/jQuery) on top.  
+  * Built with Rails, Postgres, and [Bootstrap][15], with a smattering of JS (Backbone/jQuery) on top.
   * Hosted on a [Linode](http://linode.com/) Ubuntu server (using [Phusion Passenger](https://www.phusionpassenger.com/) and [Nginx](https://en.wikipedia.org/wiki/Nginx))
   * As of 9/21/2015, they have launched and are onboarding hospitals and nurses.
 
