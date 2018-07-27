@@ -25,8 +25,8 @@ Justin Neel, a freelance client (CE Briefs).
 
 * December 2017 - June 2018
   * Rails developer for Indeed Assessments (formerly Interviewed YC company)
-    * Mostly backend, but some frontend as well.
-      * <span style='font-weight:500'>Technologies used</span>: Heroku, Postgres, Sidekiq, Ruby/Rails, RSpec/factory_bot/Capybara, Elasticsearch, New Relic/Scout, Bootstrap 4, Mixpanel/Amplitude, Pry
+    * Mostly backend, but some (Railsy) frontend as well.
+    * <span style='font-weight:500'>Technologies used</span>: Heroku, Postgres, Sidekiq, Ruby/Rails, RSpec/factory_bot/Capybara, Elasticsearch, New Relic/Scout, Bootstrap 4, Mixpanel/Amplitude, Pry
     * Learned React on the side, since they made heavy use of it
 
 * January 2016 - October 2017
