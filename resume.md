@@ -23,13 +23,13 @@ Justin Neel, a freelance client (CE Briefs).
 
 ## Programming / Web Work:
 
-* December 4 2017 - May 25 2018
+* December 2017 - June 2018
   * Rails developer for Indeed Assessments (formerly Interviewed YC company)
     * Mostly backend, but some frontend as well.
       * <span style='font-weight:500'>Technologies used</span>: Heroku, Postgres, Sidekiq, Ruby/Rails, RSpec/factory_bot/Capybara, Elasticsearch, New Relic/Scout, Bootstrap 4, Mixpanel/Amplitude, Pry
     * Learned React on the side, since they made heavy use of it
 
-* January 2016 - current
+* January 2016 - October 2017
   * Rails Web Developer for Under100 / [Fame](https://www.fame.co/) (employee)
 
 * Fall 2015
@@ -100,9 +100,10 @@ Justin Neel, a freelance client (CE Briefs).
 
 ## Experience
 * Ruby & Rails: 5+ years
-  * RSpec & factory_girl unit testing
-  * Some integration testing with Capybara
+  * RSpec & factory_bot unit testing
+  * Integration testing with Capybara
 * Front-end Javascript & Coffeescript
+  * React
   * jQuery
   * Backbone.js and client-side MV\* experience
       * includes integration/unit testing with Jasmine
