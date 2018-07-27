@@ -13,7 +13,7 @@ permalink: /resume/
 ## References
 <p style='color:gray;margin-top:-25px;font-size:14px;'>Will provide contact info upon request</p>
 
-Jason Rudder, CTO of [Trucoin][9].
+Jason Rudder, CTO of Trucoin.
 
 [Erik Dungan](http://callmeed.co/), software developer and entrepreneur.
 
@@ -66,7 +66,7 @@ Justin Neel, a freelance client (CE Briefs).
 
 [40]: http://filler.com
 
-* Jan.15 - March 4 2014: Front-end (Angular/JS/HTML/CSS) developer at [Trucoin][9]
+* Jan.15 - March 4 2014: Front-end (Angular/JS/HTML/CSS) developer at Trucoin
 
 * Fall 2010 through early 2013 &#8211; Rails Intern / Contractor for [APhotoFolio][8], working under [Erik Dungan][1] in San Luis Obispo
   * Main Rails/Backbone app I worked on while there:
